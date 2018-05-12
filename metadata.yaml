@@ -1,0 +1,34 @@
+_repo: Fields-of-Victory_13827
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ward, Humphry, Mrs.
+    aliases:
+    - Ward, Mrs. Humphry
+    - Ward, Mary Augusta Arnold
+    - Arnold, Mary Augusta
+    birthdate: 1851
+    deathdate: 1920
+    gutenberg_agent_id: '2629'
+    url: http://www.gutenberg.org/2009/agents/2629
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Augusta_Ward
+description: Cover -- Contents.
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2004-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13827'
+  lccn: '19014236'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- France'
+title: Fields of Victory
+url: http://www.gutenberg.org/ebooks/13827
